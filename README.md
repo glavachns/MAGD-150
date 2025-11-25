@@ -1,2 +1,2 @@
-# MAGD-150
-MAGD Projects
+# MAGD Projects
+
